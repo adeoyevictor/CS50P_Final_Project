@@ -1,4 +1,4 @@
-# My Blog App
+# My Contacts App
 ### Video Demo: https://youtu.be/j3LOPOhiCNM
 ### Description:
 A Contacts CLI App created using python and sqlite3
